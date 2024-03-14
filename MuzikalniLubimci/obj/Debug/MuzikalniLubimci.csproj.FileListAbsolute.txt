@@ -1,0 +1,10 @@
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\bin\Debug\MuzikalniLubimci.exe.config
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\bin\Debug\MuzikalniLubimci.exe
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\bin\Debug\MuzikalniLubimci.pdb
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\obj\Debug\MuzikalniLubimci.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\obj\Debug\MuzikalniLubimci.Form1.resources
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\obj\Debug\MuzikalniLubimci.Properties.Resources.resources
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\obj\Debug\MuzikalniLubimci.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\obj\Debug\MuzikalniLubimci.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\obj\Debug\MuzikalniLubimci.exe
+C:\Users\STUDENTS-1409-13\Desktop\Petar12A\MuzikalniLubimci\MuzikalniLubimci\obj\Debug\MuzikalniLubimci.pdb
